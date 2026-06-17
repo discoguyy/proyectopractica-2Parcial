@@ -1,0 +1,13 @@
+C:\Users\LABORATORIO1-7\Desktop\EntornoVisual\proyectopractica-2Parcial\proyectoMenuStrip\proyectoMenuStrip\bin\Debug\proyectoMenuStrip.exe.config
+C:\Users\LABORATORIO1-7\Desktop\EntornoVisual\proyectopractica-2Parcial\proyectoMenuStrip\proyectoMenuStrip\bin\Debug\proyectoMenuStrip.exe
+C:\Users\LABORATORIO1-7\Desktop\EntornoVisual\proyectopractica-2Parcial\proyectoMenuStrip\proyectoMenuStrip\bin\Debug\proyectoMenuStrip.pdb
+C:\Users\LABORATORIO1-7\Desktop\EntornoVisual\proyectopractica-2Parcial\proyectoMenuStrip\proyectoMenuStrip\obj\Debug\proyectoMenuStrip.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO1-7\Desktop\EntornoVisual\proyectopractica-2Parcial\proyectoMenuStrip\proyectoMenuStrip\obj\Debug\proyectoMenuStrip.Form1.resources
+C:\Users\LABORATORIO1-7\Desktop\EntornoVisual\proyectopractica-2Parcial\proyectoMenuStrip\proyectoMenuStrip\obj\Debug\proyectoMenuStrip.frmClientes.resources
+C:\Users\LABORATORIO1-7\Desktop\EntornoVisual\proyectopractica-2Parcial\proyectoMenuStrip\proyectoMenuStrip\obj\Debug\proyectoMenuStrip.frmEmpleado.resources
+C:\Users\LABORATORIO1-7\Desktop\EntornoVisual\proyectopractica-2Parcial\proyectoMenuStrip\proyectoMenuStrip\obj\Debug\proyectoMenuStrip.frmProductos.resources
+C:\Users\LABORATORIO1-7\Desktop\EntornoVisual\proyectopractica-2Parcial\proyectoMenuStrip\proyectoMenuStrip\obj\Debug\proyectoMenuStrip.Properties.Resources.resources
+C:\Users\LABORATORIO1-7\Desktop\EntornoVisual\proyectopractica-2Parcial\proyectoMenuStrip\proyectoMenuStrip\obj\Debug\proyectoMenuStrip.csproj.GenerateResource.cache
+C:\Users\LABORATORIO1-7\Desktop\EntornoVisual\proyectopractica-2Parcial\proyectoMenuStrip\proyectoMenuStrip\obj\Debug\proyectoMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO1-7\Desktop\EntornoVisual\proyectopractica-2Parcial\proyectoMenuStrip\proyectoMenuStrip\obj\Debug\proyectoMenuStrip.exe
+C:\Users\LABORATORIO1-7\Desktop\EntornoVisual\proyectopractica-2Parcial\proyectoMenuStrip\proyectoMenuStrip\obj\Debug\proyectoMenuStrip.pdb

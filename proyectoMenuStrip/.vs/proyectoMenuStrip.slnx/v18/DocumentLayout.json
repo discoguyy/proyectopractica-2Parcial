@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\LABORATORIO1-7\\Desktop\\EntornoVisual\\proyectopractica-2Parcial\\proyectoMenuStrip\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8A98EF1-2C91-4BBB-8499-82F106789A50}|proyectoMenuStrip\\proyectoMenuStrip.csproj|C:\\Users\\LABORATORIO1-7\\Desktop\\EntornoVisual\\proyectopractica-2Parcial\\proyectoMenuStrip\\proyectomenustrip\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C8A98EF1-2C91-4BBB-8499-82F106789A50}|proyectoMenuStrip\\proyectoMenuStrip.csproj|c:\\users\\laboratorio1-7\\desktop\\entornovisual\\proyectopractica-2parcial\\proyectomenustrip\\proyectomenustrip\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C8A98EF1-2C91-4BBB-8499-82F106789A50}|proyectoMenuStrip\\proyectoMenuStrip.csproj|solutionrelative:proyectomenustrip\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{C8A98EF1-2C91-4BBB-8499-82F106789A50}|proyectoMenuStrip\\proyectoMenuStrip.csproj|solutionrelative:proyectomenustrip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A98EF1-2C91-4BBB-8499-82F106789A50}|proyectoMenuStrip\\proyectoMenuStrip.csproj|c:\\users\\laboratorio1-7\\desktop\\entornovisual\\proyectopractica-2parcial\\proyectomenustrip\\proyectomenustrip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8A98EF1-2C91-4BBB-8499-82F106789A50}|proyectoMenuStrip\\proyectoMenuStrip.csproj|C:\\Users\\LABORATORIO1-7\\Desktop\\EntornoVisual\\proyectopractica-2Parcial\\proyectoMenuStrip\\proyectomenustrip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8A98EF1-2C91-4BBB-8499-82F106789A50}|proyectoMenuStrip\\proyectoMenuStrip.csproj|solutionrelative:proyectomenustrip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -42,8 +42,7 @@
               "RelativeToolTip": "proyectoMenuStrip\\Form1.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAD4vycAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T15:29:02.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T15:29:02.804Z"
             },
             {
               "$type": "Document",
@@ -54,8 +53,7 @@
               "ToolTip": "C:\\Users\\LABORATORIO1-7\\Desktop\\EntornoVisual\\proyectopractica-2Parcial\\proyectoMenuStrip\\proyectoMenuStrip\\frmEmpleado.cs [Dise\u00F1o]",
               "RelativeToolTip": "proyectoMenuStrip\\frmEmpleado.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T15:23:32.237Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-06-17T15:23:32.237Z"
             },
             {
               "$type": "Document",
@@ -90,8 +88,7 @@
               "ToolTip": "C:\\Users\\LABORATORIO1-7\\Desktop\\EntornoVisual\\proyectopractica-2Parcial\\proyectoMenuStrip\\proyectoMenuStrip\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "proyectoMenuStrip\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T15:10:35.13Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-06-17T15:10:35.13Z"
             }
           ]
         }
